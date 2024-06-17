@@ -1,0 +1,14 @@
+currency:
+  available:
+    - "RUB"
+cost:
+  rub:
+    perKg: 350
+    perCubicMeter: 100
+    minimal: 100
+
+coordinates:
+  minLatitude: 45
+  maxLatitude: 65
+  minLongitude: 30
+  maxLongitude: 96
